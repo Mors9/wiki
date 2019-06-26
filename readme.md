@@ -9,7 +9,9 @@
 
 ## 维护人员
 
-[Jiuone](mail@jiuone.cn)
+[Jiuone](<https://github.com/jiuone>)
+
+[Hmister](https://github.com/Hmister)
 
 
 
